@@ -77,4 +77,4 @@ body.innerHTML = template;
 
 }
 
-render();
+window.addEventListener('load',render);
