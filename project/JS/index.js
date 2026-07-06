@@ -27,7 +27,7 @@ function render(list){
                 </div>
             </div>
             <div class="read_more">
-                <button><a href="/PAGE/page.html?id=${item.id}" id="1"> بیشتر بخوانید </a></button>
+               <a href="/page/html/page.html?id=${item.id}" id="1"> <button> بیشتر بخوانید </button></a>
             </div>
        </div>`
     });
